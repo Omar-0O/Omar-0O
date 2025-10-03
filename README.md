@@ -8,7 +8,7 @@
 <br><br>
 
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://camo.githubusercontent.com/36339626328f47e7353b94d9fb96d9434a6649f3c66a6127ed4e996c0a096fcd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966)" height="40" />
 <br><br><br>
 </div>
 <br><br><br>
