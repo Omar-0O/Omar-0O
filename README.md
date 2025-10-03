@@ -8,7 +8,8 @@
 <br><br>
 
 <br><br>
-<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://camo.githubusercontent.com/36339626328f47e7353b94d9fb96d9434a6649f3c66a6127ed4e996c0a096fcd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966)" height="40" />
+<img src="[<img src="[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif]" height="40" />
+<br><br><br>]()" height="40" />
 <br><br><br>
 </div>
 <br><br><br>
@@ -16,7 +17,7 @@
 
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
   <div align="center">
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<img src="[https://camo.githubusercontent.com/36339626328f47e7353b94d9fb96d9434a6649f3c66a6127ed4e996c0a096fcd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966]" align="right">
   </div>
 <li>
  <b>Name:</b> Omar</li>
