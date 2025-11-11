@@ -13,7 +13,14 @@
 
   <p align="center">
     <a href="https://www.google.com.eg/search?q=Omar-0O4"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=mohamed20384&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+      <img src="https://komarev.com/ghpvc/?username=Omar-0O&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
+
+    <p align = "center">
+    <a href="https://drive.google.com/drive/folders/16pfCnEZfpSTxoDrYtJCVL6djo4uQ9yA6?usp=sharing">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://omar-mohamamed-ahmed-el-sayed.vercel.app/">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
   </p>
 
 
